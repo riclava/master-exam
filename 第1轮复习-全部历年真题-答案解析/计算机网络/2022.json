@@ -1,0 +1,39 @@
+{
+  "title": "2022年同等学力申硕计算机综合试题-计算机网络",
+  "sections": [
+    {
+      "type": "单选题",
+      "questions": [
+        {"id": 1, "question": "VLAN错误描述（ ）"},
+        {"id": 2, "question": "OSPF ABR特性（ ）"},
+        {"id": 3, "question": "CIDR汇聚（ ）"},
+        {"id": 4, "question": "UDP广播来源（ ）"},
+        {"id": 5, "question": "子网划分（ ）"}
+      ]
+    },
+    {
+      "type": "填空题",
+      "questions": [
+        {"id": 1, "question": "802.11采用____协议，使用____帧"},
+        {"id": 2, "question": "/20主机位____，掩码____"},
+        {"id": 3, "question": "复用定义____"},
+        {"id": 4, "question": "路由匹配默认转发到____"}
+      ]
+    },
+    {
+      "type": "名词解释",
+      "questions": [
+        {"id": 1, "question": "IGP"},
+        {"id": 2, "question": "Socket"}
+      ]
+    },
+    {
+      "type": "计算题",
+      "questions": [
+        {"id": 1, "question": "RIP路由更新"},
+        {"id": 2, "question": "文件传输时间"},
+        {"id": 3, "question": "TCP窗口恢复时间"}
+      ]
+    }
+  ]
+}

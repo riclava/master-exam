@@ -1,0 +1,36 @@
+{
+  "title": "2023年同等学力申硕计算机综合试题-计算机网络",
+  "sections": [
+    {
+      "type": "单选题",
+      "questions": [
+        {"id": 1, "question": "协议三要素错误"},
+        {"id": 2, "question": "GBN窗口最大"},
+        {"id": 3, "question": "退避算法"},
+        {"id": 4, "question": "交换机错误描述"},
+        {"id": 5, "question": "虚电路特点"},
+        {"id": 6, "question": "IP分片重组"},
+        {"id": 7, "question": "子网计算"},
+        {"id": 8, "question": "IP与端口"},
+        {"id": 9, "question": "DNS解析方式"},
+        {"id": 10, "question": "安全验证"}
+      ]
+    },
+    {
+      "type": "名词解释",
+      "questions": [
+        {"id": 1, "question": "AS"},
+        {"id": 2, "question": "慢启动"}
+      ]
+    },
+    {
+      "type": "计算题",
+      "questions": [
+        {"id": 1, "question": "最短帧长"},
+        {"id": 2, "question": "TCP可靠机制"},
+        {"id": 3, "question": "滑动窗口位数"},
+        {"id": 4, "question": "距离向量更新"}
+      ]
+    }
+  ]
+}
